@@ -13,6 +13,7 @@ rd /s /q C:\Users\jaerd\OneDrive
 rd /s /q C:\Users\jaerd\Searches
 rd /s /q C:\Users\jaerd\"Saved Games"
 
+
 deltree /y c:\windows\tempor~1
 deltree /y c:\windows\temp
 deltree /y c:\windows\tmp
